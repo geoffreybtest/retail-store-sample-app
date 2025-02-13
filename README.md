@@ -1,4 +1,4 @@
-#UPDATED aGAIN again AGAIIIIN! WHWHYHYHYH dsfadfasdfasdfasdf
+#UPDATED
 
 # AWS Containers Retail Sample
 
