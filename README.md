@@ -1,3 +1,5 @@
+#UPDATED!
+
 # AWS Containers Retail Sample
 
 This is a sample application designed to illustrate various concepts related to containers on AWS. It presents a sample retail store application including a product catalog, shopping cart and checkout.
