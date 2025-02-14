@@ -1,4 +1,4 @@
-#UPDATED asdf
+#UPDATED
 
 # AWS Containers Retail Sample
 
